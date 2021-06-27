@@ -1,6 +1,6 @@
 # Banana-Ripness-Classification-Using-CNN
 
-##Identifikasi Kematangan Buah Pisang menggunakan Pendekatan Convolution Neural Network
+## Identifikasi Kematangan Buah Pisang menggunakan Pendekatan Convolution Neural Network
 
 Kelompok 7 Kelas P1:
 - Zahra Aulia Firdausi (G64180030)
